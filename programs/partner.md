@@ -2,7 +2,7 @@
 title: Partner Program
 description: 
 published: true
-date: 2024-12-30T07:38:52.379Z
+date: 2025-01-01T10:52:00.380Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T07:38:52.379Z
@@ -15,4 +15,4 @@ However, these communities must have a decent enough audience for it to be reaso
 
 As a Partner, you'll gain access to most of the same things our [media program](/programs/media) does, but more tailored towards Partners instead of Media Members. For example, the rank would be [PARTNER], and you wouldn't be participating in our official media sources.
 
-If you're interested in applying, you can do so [here](https://surveys.minestudio.host/index.php/632951?lang=en). Good luck!
+If you're interested in applying, you can do so [here](https://noteforms.com/forms/partner-program-bgvrlj). Good luck!
