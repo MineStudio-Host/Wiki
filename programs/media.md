@@ -2,7 +2,7 @@
 title: Media Program
 description: 
 published: true
-date: 2024-12-30T07:30:31.260Z
+date: 2025-01-01T10:55:22.305Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T07:30:31.260Z
@@ -19,4 +19,4 @@ As a member of the Media Program, you'll get access to various perks, such as;
 - If opted-in, a custom tag for your viewers in our Lobbies
 - Access to private chats in our Creators Discord
 
-If this sounds appealing, you're welcome to apply [here](https://surveys.minestudio.host/index.php/283256?lang=en)! Good luck!
+If this sounds appealing, you're welcome to apply [here](https://noteforms.com/forms/media-program-w2fefb)! Good luck!
