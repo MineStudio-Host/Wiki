@@ -2,10 +2,10 @@
 title: Media Program
 description: 
 published: true
-date: 2025-01-01T10:55:22.305Z
+date: 2025-01-16T23:41:14.541Z
 tags: 
 editor: markdown
-dateCreated: 2024-12-30T07:30:31.260Z
+dateCreated: 2025-01-16T22:49:40.060Z
 ---
 
 # Media Program
@@ -19,4 +19,4 @@ As a member of the Media Program, you'll get access to various perks, such as;
 - If opted-in, a custom tag for your viewers in our Lobbies
 - Access to private chats in our Creators Discord
 
-If this sounds appealing, you're welcome to apply [here](https://noteforms.com/forms/media-program-w2fefb)! Good luck!
+If this sounds appealing, you're welcome to apply [here](https://forms.office.com/r/2HbYxqyqzD)! Good luck!
