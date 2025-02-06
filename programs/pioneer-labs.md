@@ -2,14 +2,14 @@
 title: Pioneer Labs
 description: 
 published: true
-date: 2025-02-06T21:00:43.942Z
+date: 2025-02-06T22:49:33.544Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-06T21:00:43.942Z
 ---
 
 # Overview
-Pioneer Labs is a program for tech enthusiasts, beta testers, and early adopters who want to play a key role in shaping the future of MineStudio Host. Participants in this program gain early access to new features, provide feedback to the development team, and help refine the platform before its public release.
+Pioneer Labs is a program for tech enthusiasts, beta testers, and early adopters who want to help shape the future of MineStudio Host. Participants in this program gain early access to new features, provide feedback to the development team, and help refine the platform before its public release.
 
 
 # Perks
